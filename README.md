@@ -1,5 +1,5 @@
 # Shopify-Analysis-PowerBi-Project
-![Company Logo](https://github.com/saksham2508/Monday-Coffee-Expansion-SQL-Project/blob/main/Monday%20coffee%20project.jpg)
+![Front](https://github.com/saksham2508/Shopify-Analysis-PowerBi-Project/blob/main/Project%20Front%20image.jpg)
 
 This end-to-end Power BI project explores real-time sales data from a Shopify store to uncover actionable insights. Built as part of the *2025 Edition* of real-time Power BI case studies, it highlights data modeling, DAX calculations, and dynamic dashboards for e-commerce decision-making.
 
@@ -37,6 +37,7 @@ Screenshots from the interactive Power BI dashboard are included in the Shopify 
 ### 🔹 Example View:
 
 ![Shopify Dashboard](https://github.com/saksham2508/Shopify-Analysis-PowerBi-Project/blob/main/Shopify%20dashboard%20image.png)
+![Shopify Dashboard2](https://github.com/saksham2508/Shopify-Analysis-PowerBi-Project/blob/main/Shopify%20dashboard%20image%202.png)
 
 ---
 
